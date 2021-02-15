@@ -201,8 +201,6 @@ Other **OOP disadvantages** are:
 
 **OOP vs FP**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43e7bfa2-42a4-44c1-b8c0-f5ceded68742/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43e7bfa2-42a4-44c1-b8c0-f5ceded68742/Untitled.png)
-
 - **OOP Pros**
   - OOP is so popular because it allows keeping things secure from unwanted external use. It hides variables within the class and thus prevents outside access. Besides that, OOP allows for modularity (possibility to separate the functionality of a program into independent modules) and the management of shared states.
   - Objects can be easily reused in another application. It is easy to create new objects for the same class and it is easy to maintain and alter the code.
