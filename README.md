@@ -1,6 +1,6 @@
 # js-senior-grow
 
-Progress
+## Progress
 - [x] Programming paradigms
 - [ ] Communication Protocol & Security Basics
 - [ ] Security Basics
