@@ -19,6 +19,7 @@
 3. [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 4. [https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
 5. [https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)
+6. [https://www.youtube.com/watch?v=srQt1NAHYC0](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
 **OOP**
 
