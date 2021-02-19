@@ -35,7 +35,8 @@
 4. [https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
 5. [https://www.youtube.com/watch?v=XKfhGntZROQ](https://www.youtube.com/watch?v=XKfhGntZROQ)
 
-**GoF & GRASP**
+**GoF & GRASP & SOLID**
 
 1. [https://habr.com/ru/post/38323/](https://habr.com/ru/post/38323/)
 2. [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns)
+3. [https://ota-solid.now.sh/](https://ota-solid.now.sh/)
