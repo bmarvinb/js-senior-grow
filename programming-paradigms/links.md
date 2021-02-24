@@ -1,4 +1,4 @@
-**General**
+**Общее**
 
 1. [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)
 2. [Как писать тестируемый код](https://habr.com/ru/company/mailru/blog/267277/)
@@ -11,26 +11,25 @@
 9. [AntiPatterns](https://sourcemaking.com/antipatterns)
 10. [Refactoring](https://refactoring.guru/refactoring)
 
-**FP**
+**Функциональное программирование**
 
-1. [https://www.youtube.com/watch?v=FDGqNxJnbbQ](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
-2. [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-3. [https://www.youtube.com/watch?v=srQt1NAHYC0](https://www.youtube.com/watch?v=srQt1NAHYC0)
+1. [Основы функционального программирования](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
+2. [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+3. [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
-**OOP**
+**Объектно-ориентированное программирование**
 
-1. [https://www.youtube.com/watch?v=t8zwdpkSRWs](https://www.youtube.com/watch?v=t8zwdpkSRWs)
-2. [https://www.yegor256.com/tag/oop.html](https://www.yegor256.com/tag/oop.html)
-3. [https://medium.com/free-code-camp/object-oriented-programming-concepts-21bb035f7260](https://medium.com/free-code-camp/object-oriented-programming-concepts-21bb035f7260)
+1. [Основы ООП](https://www.youtube.com/watch?v=t8zwdpkSRWs)
+2. [Блог Егора Бугаенко](https://www.yegor256.com/tag/oop.html)
+3. [How to explain object-oriented programming concepts to a 6-year-old](https://medium.com/free-code-camp/object-oriented-programming-concepts-21bb035f7260)
 
-**FPR**
+**Функционально реактивное программирование**
 
-1. [https://github.com/kriskowal/gtor](https://github.com/kriskowal/gtor)
-2. [https://gist.github.com/staltz/868e7e9bc2a7b8c1f754](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-3. [https://www.youtube.com/watch?v=XKfhGntZROQ](https://www.youtube.com/watch?v=XKfhGntZROQ)
+1. [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-**GoF & GRASP & SOLID**
+**Шаблоны проектирование, GRASP, SOLID**
 
-1. [https://habr.com/ru/post/38323/](https://habr.com/ru/post/38323/)
-2. [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns)
-3. [https://ota-solid.now.sh/](https://ota-solid.now.sh/)
+1. [GRASP](https://habr.com/ru/post/38323/)
+2. [SOLID](https://ota-solid.now.sh/)
+3. [Design Patterns](https://refactoring.guru/design-patterns)
