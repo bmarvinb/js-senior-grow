@@ -8,8 +8,6 @@
 6. [Паралич анализа: вы знаете слишком много, чтобы просто писать код](https://habr.com/ru/post/218345/)
 7. [Эти бесчисленные парадигмы, концепции, инструменты и фреймворки](https://habr.com/ru/post/117365/)
 8. [Признаки плохого программиста](https://habr.com/ru/post/130850/)
-9. [AntiPatterns](https://sourcemaking.com/antipatterns)
-10. [Refactoring](https://refactoring.guru/refactoring)
 
 **Функциональное программирование**
 
@@ -28,9 +26,10 @@
 1. [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-**Шаблоны проектирование, GRASP, SOLID, UML**
-
+**GRASP, SOLID, UML, Шаблоны проектирование**
 1. [GRASP](https://habr.com/ru/post/38323/)
 2. [SOLID](https://ota-solid.now.sh/)
-3. [Design Patterns](https://refactoring.guru/design-patterns)
-4. [UML](https://sourcemaking.com/uml)
+3. [UML](https://sourcemaking.com/uml),
+4. [Design Patterns](https://refactoring.guru/design-patterns)
+5. [AntiPatterns](https://sourcemaking.com/antipatterns)
+6. [Refactoring](https://refactoring.guru/refactoring)
