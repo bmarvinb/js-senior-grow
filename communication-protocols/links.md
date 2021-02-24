@@ -22,6 +22,10 @@
 1. [WebSockets](https://learn.javascript.ru/websockets)
 2. [Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
 
+**Security**
+1. [OWASP playlist](https://www.youtube.com/playlist?list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD)
+2. [OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
+
 **Разное**
 1. [OpenAPI](https://stoplight.io/openapi/)
 2. [Consumer-Driven Contracts](https://martinfowler.com/articles/consumerDrivenContracts.html)
