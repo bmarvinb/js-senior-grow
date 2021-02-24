@@ -18,17 +18,18 @@
 5. [AntiPatterns](https://sourcemaking.com/antipatterns)
 6. [Refactoring](https://refactoring.guru/refactoring)
 
-**Функциональное программирование**
-
-1. [Основы функционального программирования](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
-2. [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-3. [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
 **Объектно-ориентированное программирование**
 
 1. [Основы ООП](https://www.youtube.com/watch?v=t8zwdpkSRWs)
 2. [Блог Егора Бугаенко](https://www.yegor256.com/tag/oop.html)
 3. [How to explain object-oriented programming concepts to a 6-year-old](https://medium.com/free-code-camp/object-oriented-programming-concepts-21bb035f7260)
+
+**Функциональное программирование**
+
+1. [Основы функционального программирования](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
+2. [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+3. [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
 **Функционально реактивное программирование**
 
