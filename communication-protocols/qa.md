@@ -22,10 +22,10 @@ There are 7 layers in the OSI reference model.
 
 **Physical Layer**
     
-    * It is the lowest layer of the OSI reference model.
-    * It is used for the transmission of an unstructured raw bit stream over a physical medium.
-    * Physical layer transmits the data either in the form of electrical/optical or mechanical form.
-    * The physical layer is mainly used for the physical connection between the devices, and such physical connection can be made by using twisted-pair cable, fibre-optic or wireless transmission media.
+* It is the lowest layer of the OSI reference model.
+* It is used for the transmission of an unstructured raw bit stream over a physical medium.
+* Physical layer transmits the data either in the form of electrical/optical or mechanical form.
+* The physical layer is mainly used for the physical connection between the devices, and such physical connection can be made by using twisted-pair cable, fibre-optic or wireless transmission media.
 
 **DataLink Layer**
 
