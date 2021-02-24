@@ -42,7 +42,7 @@ There are 7 layers in the OSI reference model.
 * Addressing: Data-link layer attach the physical address with the data frames so that the individual machines can be easily identified.
 * Link management: Data-link layer manages the initiation, maintenance and, termination of the link between the source and destination for the effective exchange of data.
 
-** Network Layer**
+**Network Layer**
 
 * Network layer converts the logical address into the physical address.
 * It provides the routing concept means it determines the best route for the packet to travel from source to the destination.
