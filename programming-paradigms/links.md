@@ -9,14 +9,16 @@
 7. [Эти бесчисленные парадигмы, концепции, инструменты и фреймворки](https://habr.com/ru/post/117365/)
 8. [Признаки плохого программиста](https://habr.com/ru/post/130850/)
 
-**GRASP, SOLID, UML, Шаблоны проектирования**
+**GRASP, SOLID, UML**
 
 1. [GRASP](https://habr.com/ru/post/38323/)
 2. [SOLID](https://ota-solid.now.sh/)
-3. [UML](https://sourcemaking.com/uml),
-4. [Design Patterns](https://refactoring.guru/design-patterns)
-5. [AntiPatterns](https://sourcemaking.com/antipatterns)
-6. [Refactoring](https://refactoring.guru/refactoring)
+3. [UML](https://sourcemaking.com/uml)
+4. [Refactoring](https://refactoring.guru/refactoring)
+
+**Шаблоны и антишаблоны проектирования**
+1. [Design Patterns](https://refactoring.guru/design-patterns)
+2. [AntiPatterns](https://sourcemaking.com/antipatterns)
 
 **DI**
 1. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
