@@ -1,6 +1,6 @@
 **General**
 
-1. [https://habr.com/ru/post/276593/](Создание архитектуры программы или как проектировать табуретку)
+1. [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)
 2. [https://habr.com/ru/company/mailru/blog/267277/](https://habr.com/ru/company/mailru/blog/267277/)
 3. [https://habr.com/ru/post/479238/](https://habr.com/ru/post/479238/)
 4. [https://habr.com/ru/post/218603/](https://habr.com/ru/post/218603/)
