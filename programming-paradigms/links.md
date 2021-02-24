@@ -8,18 +8,14 @@
 6. [https://habr.com/ru/post/218345/](https://habr.com/ru/post/218345/)
 7. [https://habr.com/ru/post/117365/](https://habr.com/ru/post/117365/)
 8. [https://habr.com/ru/post/130850/](https://habr.com/ru/post/130850/)
-9. [https://www.youtube.com/watch?v=fsVL_xrYO0w](https://www.youtube.com/watch?v=fsVL_xrYO0w)
-10. [https://sourcemaking.com/antipatterns](https://sourcemaking.com/antipatterns)
-11. [https://refactoring.guru/refactoring](https://refactoring.guru/refactoring)
+9. [https://sourcemaking.com/antipatterns](https://sourcemaking.com/antipatterns)
+10. [https://refactoring.guru/refactoring](https://refactoring.guru/refactoring)
 
 **FP**
 
 1. [https://www.youtube.com/watch?v=FDGqNxJnbbQ](https://www.youtube.com/watch?v=FDGqNxJnbbQ)
-2. [https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-3. [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-4. [https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
-5. [https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)
-6. [https://www.youtube.com/watch?v=srQt1NAHYC0](https://www.youtube.com/watch?v=srQt1NAHYC0)
+2. [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+3. [https://www.youtube.com/watch?v=srQt1NAHYC0](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
 **OOP**
 
@@ -31,9 +27,7 @@
 
 1. [https://github.com/kriskowal/gtor](https://github.com/kriskowal/gtor)
 2. [https://gist.github.com/staltz/868e7e9bc2a7b8c1f754](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-3. [https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
-4. [https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
-5. [https://www.youtube.com/watch?v=XKfhGntZROQ](https://www.youtube.com/watch?v=XKfhGntZROQ)
+3. [https://www.youtube.com/watch?v=XKfhGntZROQ](https://www.youtube.com/watch?v=XKfhGntZROQ)
 
 **GoF & GRASP & SOLID**
 
