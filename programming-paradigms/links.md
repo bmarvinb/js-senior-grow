@@ -1,15 +1,15 @@
 **General**
 
 1. [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)
-2. [https://habr.com/ru/company/mailru/blog/267277/](https://habr.com/ru/company/mailru/blog/267277/)
-3. [https://habr.com/ru/post/479238/](https://habr.com/ru/post/479238/)
-4. [https://habr.com/ru/post/218603/](https://habr.com/ru/post/218603/)
-5. [https://habr.com/ru/post/144611/](https://habr.com/ru/post/144611/)
-6. [https://habr.com/ru/post/218345/](https://habr.com/ru/post/218345/)
-7. [https://habr.com/ru/post/117365/](https://habr.com/ru/post/117365/)
-8. [https://habr.com/ru/post/130850/](https://habr.com/ru/post/130850/)
-9. [https://sourcemaking.com/antipatterns](https://sourcemaking.com/antipatterns)
-10. [https://refactoring.guru/refactoring](https://refactoring.guru/refactoring)
+2. [Как писать тестируемый код](https://habr.com/ru/company/mailru/blog/267277/)
+3. [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
+4. [8 ловушек программирования](https://habr.com/ru/post/218603/)
+5. [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/)
+6. [Паралич анализа: вы знаете слишком много, чтобы просто писать код](https://habr.com/ru/post/218345/)
+7. [Эти бесчисленные парадигмы, концепции, инструменты и фреймворки](https://habr.com/ru/post/117365/)
+8. [Признаки плохого программиста](https://habr.com/ru/post/130850/)
+9. [AntiPatterns](https://sourcemaking.com/antipatterns)
+10. [Refactoring](https://refactoring.guru/refactoring)
 
 **FP**
 
