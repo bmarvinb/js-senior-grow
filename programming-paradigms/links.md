@@ -28,8 +28,9 @@
 1. [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-**Шаблоны проектирование, GRASP, SOLID**
+**Шаблоны проектирование, GRASP, SOLID, UML**
 
 1. [GRASP](https://habr.com/ru/post/38323/)
 2. [SOLID](https://ota-solid.now.sh/)
 3. [Design Patterns](https://refactoring.guru/design-patterns)
+4. [UML](https://sourcemaking.com/uml)
