@@ -18,6 +18,8 @@
 5. [AntiPatterns](https://sourcemaking.com/antipatterns)
 6. [Refactoring](https://refactoring.guru/refactoring)
 
+**DI**
+1. Inversion of Control Containers and the Dependency Injection pattern(https://martinfowler.com/articles/injection.html)
 
 **Объектно-ориентированное программирование**
 
