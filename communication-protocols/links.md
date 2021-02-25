@@ -1,17 +1,14 @@
 **Основы**
 
 1. [How Internet works?](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet)
-2. [Networking for Web Developers Course](https://www.udacity.com/course/networking-for-web-developers--ud256)
-3. [Networking for Web Developers Video](https://www.youtube.com/watch?v=ek6XowzWQoM)
-4. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-5. [TLS](https://hpbn.co/transport-layer-security-tls/)
-6. [SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
-
-**Network 101**
-1. [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
-2. [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
-3. [Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
-4. [Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+2. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+3. [Networking for Web Developers](https://www.youtube.com/watch?v=ek6XowzWQoM)
+4. [Network 101 - Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
+5. [Network 101 - Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+6. [Network 101 - Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
+7. [Network 101 - Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+8. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+9. [SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 
 **REST**
 1. [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
