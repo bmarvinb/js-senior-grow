@@ -21,6 +21,9 @@
 1. [GraphQL](https://www.youtube.com/watch?v=NnnvOPdstzg)
 2. [ApolloClient](https://www.youtube.com/watch?v=VdoPraj0QqU)
 
+**RPC**
+1. [REST vs RPC](https://habr.com/ru/post/441854/)
+
 **Web Sockets**
 1. [WebSockets](https://learn.javascript.ru/websockets)
 2. [Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
