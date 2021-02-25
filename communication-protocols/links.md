@@ -7,6 +7,12 @@
 5. [TLS](https://hpbn.co/transport-layer-security-tls/)
 6. [SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 
+**Network 101**
+1. [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
+2. [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+3. [Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
+4. [Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+
 **REST**
 1. [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 2. [А ваша служба является RESTful?](https://habr.com/ru/post/319984/)
