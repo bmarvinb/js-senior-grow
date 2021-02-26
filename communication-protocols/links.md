@@ -1,4 +1,4 @@
-**Основы**
+**Basics**
 
 1. [How Internet works?](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet)
 2. [Computer Networking Complete Course](https://www.youtube.com/watch?v=QKfk7YFILws)
