@@ -3,7 +3,7 @@
 ## Progress
 - [x] Programming paradigms
 - [x] Communication Protocol
-- [ ] Security Basics
+- [x] Security Basics
 - [ ] Performance Optimizations
 - [ ] Web Application Design and Framework
 - [ ] React -OR- Angular framework deep dive
