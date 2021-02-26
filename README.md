@@ -2,7 +2,7 @@
 
 ## Progress
 - [x] Programming paradigms
-- [x] Communication Protocol & Security Basics
+- [x] Communication Protocol
 - [ ] Security Basics
 - [ ] Performance Optimizations
 - [ ] Web Application Design and Framework
