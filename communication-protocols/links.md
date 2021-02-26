@@ -30,7 +30,3 @@
 1. [WebSockets](https://learn.javascript.ru/websockets)
 2. [Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
 
-**Security**
-1. [OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
-
-
