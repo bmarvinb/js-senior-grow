@@ -2,14 +2,15 @@
 
 1. [How Internet works?](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet)
 2. [Computer Networking Complete Course](https://www.youtube.com/watch?v=QKfk7YFILws)
-3. [How Internet works for Developers Part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
-4. [How Internet works for Developers Part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
-5. [HTTP](https://www.youtube.com/watch?v=HFt7Lm7hv1E&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=6)
-6. [Network 101 - Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
-7. [Network 101 - Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
-8. [Network 101 - Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
-9. [Network 101 - Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
-10. [SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
+3. [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
+4. [How Internet works for Developers Part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+5. [How Internet works for Developers Part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+6. [HTTP](https://www.youtube.com/watch?v=HFt7Lm7hv1E&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=6)
+7. [Network 101 - Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
+8. [Network 101 - Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+9. [Network 101 - Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
+10. [Network 101 - Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+11. [SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 
 **REST**
 1. [REST API Tutorial](https://www.restapitutorial.com/)
