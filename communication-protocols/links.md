@@ -1,10 +1,10 @@
 **Основы**
 
 1. [How Internet works?](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet)
-2. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-3. [Сетевые протоколы](https://www.youtube.com/watch?v=hio5jDRKUVc&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=5)
-4. [Computer Networking Complete Course](https://www.youtube.com/watch?v=QKfk7YFILws)
-5. [Протокол HTTP](https://www.youtube.com/watch?v=HFt7Lm7hv1E&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=6)
+2. [Computer Networking Complete Course](https://www.youtube.com/watch?v=QKfk7YFILws)
+3. [How Internet works for Developers Part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+4. [How Internet works for Developers Part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+5. [HTTP](https://www.youtube.com/watch?v=HFt7Lm7hv1E&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=6)
 6. [Network 101 - Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
 7. [Network 101 - Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
 8. [Network 101 - Building Blocks of UDP](https://hpbn.co/building-blocks-of-udp/)
@@ -31,7 +31,6 @@
 2. [Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
 
 **Security**
-1. [OWASP playlist](https://www.youtube.com/playlist?list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD)
-2. [OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
+1. [OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
 
 
