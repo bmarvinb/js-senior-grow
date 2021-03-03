@@ -1,9 +1,9 @@
 # js-senior-grow
 
 ## Progress
-- [x] Programming paradigms
-- [x] Communication Protocol
-- [x] Security Basics
+- [x] [Programming paradigms](https://github.com/bmarvinb/js-senior-grow/tree/master/programming-paradigms)
+- [x] [Communication Protocol](https://github.com/bmarvinb/js-senior-grow/tree/master/communication-protocols)
+- [x] [Security Basics](https://github.com/bmarvinb/js-senior-grow/tree/master/security-basics)
 - [ ] Performance Optimizations
 - [ ] Web Application Design and Framework
 - [ ] React -OR- Angular framework deep dive
