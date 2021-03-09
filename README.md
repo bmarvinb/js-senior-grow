@@ -4,7 +4,7 @@
 - [x] [Programming paradigms](https://github.com/bmarvinb/js-senior-grow/tree/master/programming-paradigms)
 - [x] [Communication Protocol](https://github.com/bmarvinb/js-senior-grow/tree/master/communication-protocols)
 - [x] [Security Basics](https://github.com/bmarvinb/js-senior-grow/tree/master/security-basics)
-- [x] Performance Optimizations
+- [x] [Performance Optimizations](https://github.com/bmarvinb/js-senior-grow/tree/master/performance)
 - [ ] Web Application Design and Framework
 - [ ] React -OR- Angular framework deep dive
 - [ ] Architecture
