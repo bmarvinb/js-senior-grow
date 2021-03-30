@@ -6,8 +6,8 @@
 - [x] [Security Basics](https://github.com/bmarvinb/js-senior-grow/tree/master/security-basics)
 - [x] [Performance Optimizations](https://github.com/bmarvinb/js-senior-grow/tree/master/performance)
 - [x] [Web Application Design and Framework](https://github.com/bmarvinb/js-senior-grow/tree/master/web-application-design)
-- [ ] React -OR- Angular framework deep dive
-- [ ] Architecture
+- [x] [Angular framework deep dive](https://github.com/bmarvinb/js-senior-grow/tree/master/angular)
+- [x] [Architecture](https://github.com/bmarvinb/js-senior-grow/tree/master/architecture)
 - [ ] Patterns
 - [ ] Code quality
 - [ ] CI/CD/CD, GIT
