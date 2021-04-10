@@ -8,8 +8,8 @@
 - [x] [Web Application Design and Framework](https://github.com/bmarvinb/js-senior-grow/tree/master/web-application-design)
 - [x] [Angular framework deep dive](https://github.com/bmarvinb/js-senior-grow/tree/master/angular)
 - [x] [Architecture](https://github.com/bmarvinb/js-senior-grow/tree/master/architecture)
-- [ ] Patterns
-- [ ] Code quality
+- [x] [Patterns](https://github.com/bmarvinb/js-senior-grow/tree/master/patterns)
+- [x] [Code quality](https://github.com/bmarvinb/js-senior-grow/tree/master/code-quality)
 - [ ] CI/CD/CD, GIT
 - [ ] SDLC Methodologies
 - [ ] Estimations 
