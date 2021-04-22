@@ -10,7 +10,7 @@
 - [x] [Architecture](https://github.com/bmarvinb/js-senior-grow/tree/master/architecture)
 - [x] [Patterns](https://github.com/bmarvinb/js-senior-grow/tree/master/patterns)
 - [x] [Code quality](https://github.com/bmarvinb/js-senior-grow/tree/master/code-quality)
-- [x] [CI/CD/CD, GIT](https://github.com/bmarvinb/js-senior-grow/tree/master/ci-cd)
+- [x] [CI/CD/CD, Git](https://github.com/bmarvinb/js-senior-grow/tree/master/ci-cd)
 - [ ] SDLC Methodologies
 - [ ] Estimations 
 - [ ] Team management and Soft Skills 
