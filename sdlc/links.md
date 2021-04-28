@@ -10,3 +10,4 @@
 8. [Waterfall](https://www.guru99.com/what-is-sdlc-or-waterfall-model.html)
 9. [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/company/edison/blog/313410/)
 10. [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+11. [Agile project management methods](https://www.altexsoft.com/infographics/agile-project-management-methods/)
