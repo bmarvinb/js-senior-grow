@@ -5,7 +5,7 @@
 3. [Kanban metrics](https://getnave.com/blog/kanban-metrics/)
 4. [Kanban cycle time](https://getnave.com/blog/kanban-cycle-time/)
 5. [DOD and DOR](https://orgler.medium.com/what-are-dod-and-dor-in-scrum-14894e0b3d0d)
-6. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+6. [Scrum guide](https://scrumguides.org/scrum-guide.html)
 7. [SDLC](https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/)
 8. [Waterfall](https://www.guru99.com/what-is-sdlc-or-waterfall-model.html)
 9. [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/company/edison/blog/313410/)
