@@ -11,5 +11,5 @@
 - [x] [Code quality](https://github.com/bmarvinb/js-senior-grow/tree/master/code-quality)
 - [x] [CI/CD, Git](https://github.com/bmarvinb/js-senior-grow/tree/master/ci-cd)
 - [x] [SDLC](https://github.com/bmarvinb/js-senior-grow/tree/master/sdlc)
-- [ ] Estimations 
+- [x] [Estimations](https://github.com/bmarvinb/js-senior-grow/tree/master/estimations)
 - [ ] Team management and Soft Skills 
