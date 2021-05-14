@@ -12,4 +12,4 @@
 - [x] [CI/CD, Git](https://github.com/bmarvinb/js-senior-grow/tree/master/ci-cd)
 - [x] [SDLC](https://github.com/bmarvinb/js-senior-grow/tree/master/sdlc)
 - [x] [Estimations](https://github.com/bmarvinb/js-senior-grow/tree/master/estimations)
-- [ ] Team management and Soft Skills 
+- [x] [Team management and Soft Skills](https://github.com/bmarvinb/js-senior-grow/tree/master/soft-skills) 
