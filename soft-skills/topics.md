@@ -8,7 +8,7 @@
 
 ### Motivation techniques
 
-[](https://www.precision-people.uk/news/2018/12/7-powerful-ways-to-motivate-your-team/135)
+[Motivation](https://www.precision-people.uk/news/2018/12/7-powerful-ways-to-motivate-your-team/135)
 
 ### Deal with low employee performance
 
