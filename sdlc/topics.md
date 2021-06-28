@@ -2,6 +2,9 @@
 
 [Project Management Guide](https://www.smartsheet.com/content-center/best-practices/project-management/project-management-guide)
 
+### Kanban vs Scrum
+[Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+
 ### What is SDLC? Its phases? SDLC models? (Predictive vs Iterative vs Adaptive);
 
 [What is SDLC? How the Software Development Life Cycle Works](https://phoenixnap.com/blog/software-development-life-cycle)
