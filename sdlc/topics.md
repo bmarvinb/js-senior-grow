@@ -28,7 +28,7 @@
 
 ### SCRUM - how to handle some nontrivial scenario
 
-**Exampe:** (i.e. senior manager asks directly to do something -> only product owner can set up tasks, goals; critical issue before vacation -> check a process with PM, file a ticket, investigate, update the ticket with findings, delegate to the most experienced guy in that area);
+**Example:** (i.e. senior manager asks directly to do something -> only product owner can set up tasks, goals; critical issue before vacation -> check a process with PM, file a ticket, investigate, update the ticket with findings, delegate to the most experienced guy in that area);
 
 ### Scrum teams are by definition cross-functional. How do you understand this term?
 
