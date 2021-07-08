@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-## Topics
+## General topics
 * [Programming paradigms](https://github.com/bmarvinb/js-senior-grow/tree/master/programming-paradigms)
 * [Communication Protocol](https://github.com/bmarvinb/js-senior-grow/tree/master/communication-protocols)
 * [Security Basics](https://github.com/bmarvinb/js-senior-grow/tree/master/security-basics)
@@ -14,3 +14,6 @@
 * [SDLC](https://github.com/bmarvinb/js-senior-grow/tree/master/sdlc)
 * [Estimations](https://github.com/bmarvinb/js-senior-grow/tree/master/estimations)
 * [Team management and Soft Skills](https://github.com/bmarvinb/js-senior-grow/tree/master/soft-skills) 
+
+## Additional topics
+* [RDBMS (RU)](https://github.com/bmarvinb/rdbms)
