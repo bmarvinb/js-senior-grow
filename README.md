@@ -1,4 +1,4 @@
-# Senior Software Engineer
+# Software Engineering
 
 ## General topics
 * [Programming paradigms](https://github.com/bmarvinb/js-senior-grow/tree/master/programming-paradigms)
