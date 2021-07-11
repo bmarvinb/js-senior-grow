@@ -14,6 +14,3 @@
 * [SDLC](https://github.com/bmarvinb/js-senior-grow/tree/master/sdlc)
 * [Estimations](https://github.com/bmarvinb/js-senior-grow/tree/master/estimations)
 * [Team management and Soft Skills](https://github.com/bmarvinb/js-senior-grow/tree/master/soft-skills) 
-
-## Additional topics
-* [RDBMS (RU)](https://github.com/bmarvinb/rdbms)
